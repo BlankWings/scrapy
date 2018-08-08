@@ -1,0 +1,3 @@
+request中的参数作用
+params用于将数据传入要访问的url中
+headers的作用，使用user-agent模仿浏览器访问服务器
